@@ -1,0 +1,60 @@
+
+#xxx{
+	 background: #3ef5d8;
+	 color:white;
+	 margin-left: 10px;
+
+}
+.xyz{
+	margin-right: 150px;
+}
+
+.ttt{
+	background: #9191e7;
+	margin: 20px;
+	padding: 30px;
+	height: 1200px;
+	width:90%;
+}
+
+.all{
+     background: white;
+     height: 1100px;
+     width: 25%;
+     padding-left: 40px;
+     margin-left: 10px;
+ }
+
+#about{
+	border-bottom: 2px solid green;
+	margin: 5px;
+
+}
+.rrr{
+	background: white;
+}
+
+#zzz{
+	text-align: center;
+	font-size: 25px;
+	background: #3ef5d8;
+	border-top: 4px solid green; 
+}
+
+#box1{
+   border: 2px solid green;
+   height: 20px;
+   margin-top: 10px;
+   width: 167px;
+   background: teal;
+   color: white;
+   position:relative;
+   top:-40px;
+
+
+
+}
+#box2{
+   border: 2px solid green;
+   height: 140px;
+

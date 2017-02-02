@@ -1,0 +1,34 @@
+#xxx{
+	 background: #3ef5d8;
+	 color:white;
+	 margin-left: 10px;
+
+}
+.xyz{
+	margin-right: 550px;
+}
+
+.ttt{
+	background: #9191e7;
+	margin: 20px;
+	padding: 30px;
+}
+
+.all{
+	background: white;
+}
+#about{
+	border-bottom: 2px solid green;
+	margin: 5px;
+
+}
+.rrr{
+	background: white;
+}
+
+#zzz{
+	text-align: center;
+	font-size: 25px;
+	background: #3ef5d8;
+	border-top: 4px solid green; 
+}
